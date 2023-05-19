@@ -1,19 +1,19 @@
 {
     "Ads": [
       {
-        "select_main_ads": "ADMOB",
-        "select_backup_ads":"APPLOVIN-D",
-        "main_ads_banner": "ca-app-pub-8799090825709075/8652257235",
-        "main_ads_intertitial":"ca-app-pub-8799090825709075/9707739482",
-        "main_ads_natives":"",
+        "select_main_ads": "APPLOVIN-D",
+        "select_backup_ads":"FACEBOOK",
+        "main_ads_banner": "3cab1f6db9794ab1",
+        "main_ads_intertitial": "95f2fb751da79e7e",
+        "main_ads_natives": "b143ad102d7200d4",
         "backup_ads_natives":"",
         "backup_ads_banner":"",
         "backup_ads_intertitial":"",
-        "open_ads_admob":"ca-app-pub-8799090825709075/3591502240",
+        "open_ads_admob":"",
         "open_ads_alien":"",
         "switch_open_ads":"1",
         "switch_banner_natives_ads":"",
-        "interval_intertitial": 3,
+        "interval_intertitial": 2,
         "initialize_sdk":"",
         "initialize_sdk_backup_ads":"",
         "high_paying_keyword_1": "investasi",
@@ -32,7 +32,7 @@
         "title": "Apa itu Kreditin Pinjaman Online Guide?",
         "image": "https://storage.googleapis.com/kargotech-web/2021/01/190121_Perbedaan_Kredit_Pinjaman_Online_dengan_Kredit_Pinjaman_Bank.jpg",
         "description": "Tentang Kreditin Pinjaman Online Guide",
-        "link": "Kreditin" adalah platform baru yang telah muncul setelah tanggal tersebut. Namun, secara umum, pinjaman online adalah proses meminjam uang melalui platform atau aplikasi online. Pinjaman tersebut dapat digunakan untuk berbagai keperluan, seperti kebutuhan mendesak, pendidikan, kesehatan, atau keperluan lainnya. Setiap platform pinjaman online memiliki kebijakan, persyaratan, suku bunga, dan prosedur yang berbeda, jadi penting untuk membaca dan memahami syarat dan ketentuan mereka sebelum mengajukan pinjaman. Jika "Kreditin Pinjaman Online" adalah platform spesifik, saya sarankan Anda mengunjungi situs web resmi mereka atau mencari informasi lebih lanjut secara online untuk memperoleh panduan dan informasi yang lebih terperinci tentang layanan mereka."
+        "link": "Kreditin adalah platform baru yang telah muncul setelah tanggal tersebut. Namun, secara umum, pinjaman online adalah proses meminjam uang melalui platform atau aplikasi online. Pinjaman tersebut dapat digunakan untuk berbagai keperluan, seperti kebutuhan mendesak, pendidikan, kesehatan, atau keperluan lainnya. Setiap platform pinjaman online memiliki kebijakan, persyaratan, suku bunga, dan prosedur yang berbeda, jadi penting untuk membaca dan memahami syarat dan ketentuan mereka sebelum mengajukan pinjaman. Jika "Kreditin Pinjaman Online" adalah platform spesifik, saya sarankan Anda mengunjungi situs web resmi mereka atau mencari informasi lebih lanjut secara online untuk memperoleh panduan dan informasi yang lebih terperinci tentang layanan mereka."
        },
       {
         "id": 1,
