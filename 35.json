@@ -1,19 +1,19 @@
 {
     "Ads": [
       {
-        "select_main_ads": "ADMOB",
-        "select_backup_ads":"APPLOVIN-D",
-        "main_ads_banner": "ca-app-pub-8799090825709075/8652257235",
-        "main_ads_intertitial":"ca-app-pub-8799090825709075/9707739482",
-        "main_ads_natives":"",
+        "select_main_ads": "APPLOVIN-D",
+        "select_backup_ads":"FACEBOOK",
+        "main_ads_banner": "3cab1f6db9794ab1",
+        "main_ads_intertitial": "95f2fb751da79e7e",
+        "main_ads_natives": "b143ad102d7200d4",
         "backup_ads_natives":"",
         "backup_ads_banner":"",
         "backup_ads_intertitial":"",
-        "open_ads_admob":"ca-app-pub-8799090825709075/3591502240",
+        "open_ads_admob":"",
         "open_ads_alien":"",
         "switch_open_ads":"1",
         "switch_banner_natives_ads":"",
-        "interval_intertitial": 3,
+        "interval_intertitial": 2,
         "initialize_sdk":"",
         "initialize_sdk_backup_ads":"",
         "high_paying_keyword_1": "investasi",
@@ -32,7 +32,7 @@
         "title": "Apa itu Dana Go Pinjaman Online Guide?",
         "image": "https://www.rkonline.id/wp-content/uploads/pinjol-ilegal-cepat-cair.jpg",
         "description": "Tentang Dana Go Pinjaman Online Guide",
-        "link": "Dana Go" sebagai platform pinjaman online. Mungkin ada kekeliruan dalam penyebutan nama platform tersebut atau platform tersebut belum dikenal secara luas. Namun, jika Anda mencari informasi atau panduan tentang pinjaman online secara umum, saya dapat memberikan beberapa tips yang berguna: Evaluasi kebutuhan pinjaman Anda: Tentukan dengan jelas mengapa Anda membutuhkan pinjaman dan berapa jumlah yang Anda butuhkan. Hal ini akan membantu Anda memilih jenis pinjaman yang sesuai dan menghindari mengambil pinjaman lebih dari yang Anda butuhkan. Lakukan riset tentang platform pinjaman online: Pilihlah platform pinjaman online yang terpercaya dan memiliki reputasi baik. Bacalah ulasan pengguna sebelumnya dan cari tahu tentang pengalaman orang lain dengan platform tersebut. Periksa persyaratan pinjaman: Setiap platform pinjaman online memiliki persyaratan yang berbeda. Pastikan Anda memenuhi persyaratan usia, pendapatan, dan dokumen lainnya yang diminta. Jika Anda tidak memenuhi persyaratan tertentu, pertimbangkan alternatif lain untuk memenuhi kebutuhan keuangan Anda. Pahami suku bunga dan biaya: Baca dengan cermat tentang suku bunga yang diterapkan oleh platform pinjaman online tersebut. Periksa juga biaya lain yang mungkin terkait dengan pinjaman, seperti biaya administrasi atau biaya penalti. Pastikan Anda memahami total biaya pinjaman dan kewajiban pembayaran sebelum mengajukan permohonan. Jaga privasi dan keamanan: Pastikan platform pinjaman online yang Anda pilih memiliki kebijakan privasi yang kuat dan langkah-langkah keamanan yang memadai. Informasi pribadi dan keuangan Anda harus dikelola dengan aman dan tidak akan disalahgunakan. Ajukan pinjaman dengan bijak: Sebelum mengajukan pinjaman, pertimbangkan secara cermat kemampuan Anda untuk melunasi pinjaman tersebut. Buatlah perencanaan keuangan yang jelas dan pastikan Anda dapat memenuhi kewajiban pembayaran tepat waktu. Selalu ingat bahwa pinjaman harus dikelola dengan bijak dan bertanggung jawab. Jika Anda memiliki pertanyaan lebih lanjut atau membutuhkan informasi yang lebih spesifik, disarankan untuk menghubungi langsung platform pinjaman online yang Anda minati atau berkonsultasi dengan ahli keuangan."
+        "link": "Dana Go sebagai platform pinjaman online. Mungkin ada kekeliruan dalam penyebutan nama platform tersebut atau platform tersebut belum dikenal secara luas. Namun, jika Anda mencari informasi atau panduan tentang pinjaman online secara umum, saya dapat memberikan beberapa tips yang berguna: Evaluasi kebutuhan pinjaman Anda: Tentukan dengan jelas mengapa Anda membutuhkan pinjaman dan berapa jumlah yang Anda butuhkan. Hal ini akan membantu Anda memilih jenis pinjaman yang sesuai dan menghindari mengambil pinjaman lebih dari yang Anda butuhkan. Lakukan riset tentang platform pinjaman online: Pilihlah platform pinjaman online yang terpercaya dan memiliki reputasi baik. Bacalah ulasan pengguna sebelumnya dan cari tahu tentang pengalaman orang lain dengan platform tersebut. Periksa persyaratan pinjaman: Setiap platform pinjaman online memiliki persyaratan yang berbeda. Pastikan Anda memenuhi persyaratan usia, pendapatan, dan dokumen lainnya yang diminta. Jika Anda tidak memenuhi persyaratan tertentu, pertimbangkan alternatif lain untuk memenuhi kebutuhan keuangan Anda. Pahami suku bunga dan biaya: Baca dengan cermat tentang suku bunga yang diterapkan oleh platform pinjaman online tersebut. Periksa juga biaya lain yang mungkin terkait dengan pinjaman, seperti biaya administrasi atau biaya penalti. Pastikan Anda memahami total biaya pinjaman dan kewajiban pembayaran sebelum mengajukan permohonan. Jaga privasi dan keamanan: Pastikan platform pinjaman online yang Anda pilih memiliki kebijakan privasi yang kuat dan langkah-langkah keamanan yang memadai. Informasi pribadi dan keuangan Anda harus dikelola dengan aman dan tidak akan disalahgunakan. Ajukan pinjaman dengan bijak: Sebelum mengajukan pinjaman, pertimbangkan secara cermat kemampuan Anda untuk melunasi pinjaman tersebut. Buatlah perencanaan keuangan yang jelas dan pastikan Anda dapat memenuhi kewajiban pembayaran tepat waktu. Selalu ingat bahwa pinjaman harus dikelola dengan bijak dan bertanggung jawab. Jika Anda memiliki pertanyaan lebih lanjut atau membutuhkan informasi yang lebih spesifik, disarankan untuk menghubungi langsung platform pinjaman online yang Anda minati atau berkonsultasi dengan ahli keuangan."
        },
       {
         "id": 1,
