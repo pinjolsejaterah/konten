@@ -1,8 +1,4 @@
-        "select_main_ads": ,
-        "select_backup_ads":"FACEBOOK",
-        "main_ads_banner": "3cab1f6db9794ab1",
-        "main_ads_intertitial": "95f2fb751da79e7e",
-        "main_ads_natives": "b143ad102d7200d4",{
+{
   "Ads": [
     {
       "select_main_ads": "APPLOVIN-D",
