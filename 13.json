@@ -24,7 +24,7 @@
     {
       "ad_status": 1,
       "main_ad": "fan",
-      "backup_ad": "applovin_discovery",
+      "backup_ad": "none",
       "admob_banner_unit_id": "0",
       "admob_interstitial_unit_id": "0",
       "admob_native_unit_id": "0",
