@@ -3,7 +3,7 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "",
+      "privacy_policy_url": "https://pinjolsejahtera.blogspot.com/2023/05/privacy-policy.html",
       "email_feedback_and_report": "",
       "webview_cache": true,
       "post_list_in_large_style": false,
@@ -49,7 +49,7 @@
       "ironsource_app_key": "0",
       "ironsource_banner_id": "0",
       "ironsource_interstitial_id": "0",
-      "interstitial_ad_interval": 3,
+      "interstitial_ad_interval": 2,
       "native_ad_index": 1,
       "native_ad_interval": 4,
       "native_ad_style": "medium",
