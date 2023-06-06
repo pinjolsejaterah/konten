@@ -24,7 +24,7 @@
     {
       "ad_status": 1,
       "main_ad": "fan",
-      "backup_ad": "applovin_discovery",
+      "backup_ad": "none",
       "admob_banner_unit_id": "0",
       "admob_interstitial_unit_id": "0",
       "admob_native_unit_id": "0",
@@ -40,7 +40,7 @@
       "unity_game_id": "0",
       "unity_banner_placement_id": "0",
       "unity_interstitial_placement_id": "0",
-      "applovin_banner_unit_id": "d31908f1c0fbb96c",
+      "applovin_banner_unit_id": "0",
       "applovin_interstitial_unit_id": "acc6c5f52857ddbe",
       "applovin_native_manual_unit_id": "b143ad102d7200d4",
       "applovin_open_ad_unit_id": "0",
