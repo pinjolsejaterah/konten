@@ -51,7 +51,7 @@
       "ironsource_interstitial_id": "0",
       "interstitial_ad_interval": 2,
       "native_ad_index": 1,
-      "native_ad_interval": 4,
+      "native_ad_interval": 2,
       "native_ad_style": "medium",
       "native_ad_post_details_position": "top",
       "show_banner_ad_home": true,
